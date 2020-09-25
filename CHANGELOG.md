@@ -20,9 +20,14 @@ _ entrega: al rechazarse una entrega se incrementa este contador en la siguiente
 Cuando la entrega se aceptase se crearía un tag público que solo conservaría los
 tres primeros dígitos (mayor, minor, revision).
 
+# V1.3.0.0
+
+-   Se corrige custom.min.js para quitar los console.log.
+-   Se agrega laravel passport para las apis
+
 # V1.2.0.0
 
--   Se agrega el changelog y las configuraciones necesarias para el multidioma entr español e ingles.
+-   Se agrega el changelog y las configuraciones necesarias para el multidioma entre español e ingles.
 
 # V1.1.0.0
 
